@@ -46,9 +46,9 @@ h4, h5, h6{
 #contenido{width:98%; margin:1% auto;}
 
 header{
-	width:98%;
-	top:40%;
-	position: relative;
+	width:50%;
+	top:20%;
+	position: absolute;
 	text-align:center;
 	z-index:9;
 	color:white;
