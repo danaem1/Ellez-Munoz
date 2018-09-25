@@ -11,36 +11,36 @@ body{
 }
 
 h1, h2, h3, h4{
-	font-family: 'Montserrat', sans-serif; 
-	font-weight:700; 
+	font-family: 'Montserrat', sans-serif;
+	font-weight:700;
 }
 
 h1{
 	letter-spacing:0.1em;
 	color:rgba(255,255,255,0.9);
-	text-shadow: 1px 1px 0 #999;	
+	text-shadow: 1px 1px 0 #999;
 	text-align:center;
 }
 
 h2{
-	letter-spacing:0.02em; 
-	color:rgba(255,255,255,0.6); 
-	padding:0.2em 0; 
+	letter-spacing:0.02em;
+	color:rgba(255,255,255,0.6);
+	padding:0.2em 0;
 	text-shadow: 1px 1px 0 #999;
-	text-align:center;		
+	text-align:center;
 }
 
 h3{
-	letter-spacing:0.2em; 
-	color:rgba(0,0,0,.75); 
-	padding:2em 0 0.6em 0; 
+	letter-spacing:0.2em;
+	color:rgba(0,0,0,.75);
+	padding:2em 0 0.6em 0;
 	text-shadow: 1px 1px 0 #ccc;
-	text-align:center;	
+	text-align:center;
 }
 
 h4, h5, h6{
 	font-weight:left;
-	font-weight:600; 	
+	font-weight:600;
 }
 
 #contenido{width:98%; margin:1% auto;}
@@ -108,23 +108,7 @@ video{
 
 .primera address{padding: 2% 40% 2% 2%; font-size:0.9em; font-style:normal;}
 
-.segunda{
-	min-height:300px;
-	text-align:right;
-	background-color:rgba(231,240,239,1);
-	background-image:url('media/dupla-02.jpg');
-	background-position:top left;
-	background-repeat:no-repeat;
-	background-size:auto 100%;
-}
 
-.segunda h4{padding: 2% 2% 1% 40%;}
-
-.segunda h5{padding: 1% 2% 2% 40%; margin-bottom:5em; letter-spacing:0.1em;}
-
-.segunda p{padding: 2% 2% 2% 40%;}
-
-.segunda address{padding: 2% 2% 2% 40%; font-size:0.9em; font-style:normal;}
 
 #somos hr{
 	clear:both;
@@ -154,15 +138,15 @@ video{
 }
 
 .item figure img{
-	width:100%; 
-	height:auto; 
+	width:100%;
+	height:auto;
 	margin-bottom:-4px;
 	filter: grayscale(1);
 }
 
 .item:hover figure img{
 	transform:scale(1.25);
-	filter: grayscale(0);	
+	filter: grayscale(0);
 	transition:all ease-out 0.5s;
 }
 
@@ -182,8 +166,8 @@ footer{
 	width:100%;
 	padding:3em 0 1em 0;
 	text-align:center;
-	font-family: 'Montserrat', sans-serif; 
-	font-weight:700; 	
+	font-family: 'Montserrat', sans-serif;
+	font-weight:700;
 }
 
 footer p{
