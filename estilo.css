@@ -99,6 +99,7 @@ video{
 	background-position:absolute;
 	background-repeat:no-repeat;
 	background-size:auto 100%;
+	background-size:cover;
 	min-height:250px
 }
 .primera h4{padding: 0% 20% 0% 15%; font-size:1.6em; margin-top: 2%;}
@@ -107,7 +108,7 @@ video{
 
 .primera p{padding: 1% 20% 1% 15%;}
 
-.primera address{padding: 1% 20% 0% 15%; font-size:1em; font-style:normal;}
+.primera address{padding: 0% 20% 0% 15%; font-size:1em; font-style:normal;}
 
 
 
@@ -127,7 +128,7 @@ video{
 	margin:1%;
 	color:#333;
 	background:black;
-	box-shadow:0 0 5px rgba(102,41,135,1);
+	box-shadow:0 0 5px rgba(0,0,0,1);
 }
 
 .item:hover{
@@ -193,7 +194,7 @@ footer hr{
 	.item{
 		width:48%;
 		margin:1%;
-		background:#F0E5D3;
+		background:#353534;
 		color:#333;
 	}
 
