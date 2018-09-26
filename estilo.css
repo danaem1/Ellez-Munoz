@@ -69,14 +69,14 @@ video{
 
 #somos{
 	width:100%;
-	background:rgb(0,0,0);
+	background:rgb(254,191,199);
 	margin-bottom:2%;
 	}
 
 .dupla{
 	width:96%;
 	padding:2%;
-	background-color:black;
+	background-color:white;
 	}
 
 .dupla a{
@@ -93,7 +93,7 @@ video{
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:rgba(254,191,199,1);
+	background-color:rgba(0,0,0,1);
 	background-image:url('media/dupla-01.jpg');
 	background-position:absolute;
 	background-repeat:no-repeat;
