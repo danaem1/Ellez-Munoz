@@ -126,8 +126,8 @@ video{
 	width:23%;
 	margin:1%;
 	color:#ff9ea9;
-	background:black;
-	box-shadow:0 0 5px rgba(0,0,0,1);
+	background:white;
+	box-shadow:0 0 5px rgba(138,138,138,1);
 }
 
 .item:hover{
@@ -193,8 +193,8 @@ footer hr{
 	.item{
 		width:48%;
 		margin:1%;
-		background:#353534;
-		color:#333;
+		background:#8a8a8a;
+		color:#8a8a8a;
 	}
 
 	footer hr{
