@@ -24,7 +24,7 @@ h1{
 
 h2{
 	letter-spacing:0.02em;
-	color:rgba(160,160,160,0.6);
+	color:rgba(140,140,140,0.6);
 	padding:0.2em 0;
 	text-shadow: 1px 1px 0 #999;
 	text-align:center;
@@ -32,7 +32,7 @@ h2{
 
 h3{
 	letter-spacing:0.2em;
-	color:rgba(0,0,0,.75);
+	color:rgba(140,140,140,.75);
 	padding:2em 0 0.6em 0;
 	text-shadow: 1px 1px 0 #ccc;
 	text-align:center;
@@ -75,10 +75,9 @@ video{
 	}
 
 .dupla{
-	width:46%;
+	width:96%;
 	padding:2%;
-	float:left;
-	background-color:red;
+	background-color:black;
 	}
 
 .dupla a{
@@ -99,16 +98,17 @@ video{
 	background-image:url('media/dupla-01.jpg');
 	background-position:absolute;
 	background-repeat:no-repeat;
+	background-size:auto 100%;
 	background-size:cover;
 	min-height:250px
 }
-.primera h4{padding: 2% 40% 1% 2%;}
+.primera h4{padding: 0% 20% 0% 15%; font-size:1.6em; margin-top: 2%;}
 
-.primera h5{padding: 1% 40% 2% 2%; margin-bottom:5em; letter-spacing:0.1em;}
+.primera h5{padding: 0% 20% 1% 15%; margin-bottom:2em; font-size:1.3em; letter-spacing:0.1em;}
 
-.primera p{padding: 2% 40% 2% 2%;}
+.primera p{padding: 1% 20% 1% 15%;}
 
-.primera address{padding: 2% 40% 2% 2%; font-size:0.9em; font-style:normal;}
+.primera address{padding: 1% 20% 0% 15%; font-size:0.9em; font-style:normal;}
 
 
 
