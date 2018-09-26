@@ -5,7 +5,7 @@
 
 body{
 	background:rgba(25,25,25,1);
-	color:rgba(25,25,25,1);
+	color:rgba(254,191,199,1);
 	font-family: 'Abel', sans-serif;
 	font-weight:300;
 }
@@ -93,7 +93,7 @@ video{
 .primera{
 	min-height:300px;
 	text-align:left;
-	background-color:rgba(0,0,0,1);
+	background-color:rgba(254,191,199,1);
 	background-image:url('media/dupla-01.jpg');
 	background-position:absolute;
 	background-repeat:no-repeat;
