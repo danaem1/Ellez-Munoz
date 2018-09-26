@@ -4,7 +4,7 @@
 }
 
 body{
-	background:rgba(255,255,255,1);
+	background:rgba(57,57,57,1);
 	color:rgba(25,25,25,1);
 	font-family: 'Abel', sans-serif;
 	font-weight:300;
@@ -41,7 +41,6 @@ h3{
 h4, h5, h6{
 	font-weight:left;
 	font-weight:600;
-	color:rgba(254,191,199,1);
 }
 
 #contenido{width:98%; margin:1% auto;}
