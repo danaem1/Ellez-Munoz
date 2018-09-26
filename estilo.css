@@ -119,14 +119,14 @@ video{
 #portafolio{
 	width:100%;
 	padding-bottom:1%;
-	background:linear-gradient(to bottom right, #F2E6D4, #E7F0EF);
+	background:linear-gradient(to bottom right, #18018b, #c1041f);
 }
 
 .item {
 	width:23%;
 	margin:1%;
 	color:#ff9ea9;
-	background:white;
+	background:black;
 	box-shadow:0 0 5px rgba(138,138,138,1);
 }
 
